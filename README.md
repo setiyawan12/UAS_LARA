@@ -1,3 +1,5 @@
+### [Aplikasi Perekaman Barang](https://setiyawan-barang.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1MUPujJe9pK16nHUi6Gu8UnJ2QxKsojXg/view) klik
 #### By
 - Nama  : Yayang Setiyawan
 - NIM   : 18090045
